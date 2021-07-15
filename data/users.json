@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6aa21926-df7c-4eb7-9cdc-83e600b3424a",
+        "name": "Oliver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.797495782375336,
+          -21.9687009150047
+        ]
+      }
+    }
+  ]
+}

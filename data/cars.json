@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2a1f248a-eef4-40fb-9f9a-a2c7c59ea9ac",
+        "driver": "Jeff",
+        "identifier": "",
+        "model": "Audi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79617881774902,
+          -21.96786761701077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f98ce964-54e7-447e-b29e-1603fcda4486",
+        "driver": "John",
+        "identifier": "",
+        "model": "BMW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79673671722412,
+          -21.968787975707063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1ee667bb-b0da-4728-871e-cad945896999",
+        "driver": "Josh",
+        "identifier": "",
+        "model": "Ferrari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.797852516174316,
+          -21.96885762423055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d437df41-e97c-4419-869e-6d2fa4f86e94",
+        "driver": "Ryan",
+        "identifier": "",
+        "model": "Fiat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79843723773956,
+          -21.968638728756034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a1404767-0b37-444a-831c-35c8dfe7c71f",
+        "driver": "Ane",
+        "identifier": "",
+        "model": "Ford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79729998111724,
+          -21.967519371624604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "85468fae-d896-4948-a0b8-adaea2d5beb6",
+        "driver": "",
+        "identifier": "",
+        "model": "Honda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79717659950256,
+          -21.96637015579267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20541a76-88fc-40f5-8472-a6884d0ec1dc",
+        "driver": "",
+        "identifier": "",
+        "model": "Citroen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79845333099365,
+          -21.967111425943493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9cdec4c4-7bdc-4620-9261-ea9637f559be",
+        "driver": "",
+        "identifier": "",
+        "model": "Ford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79749310016632,
+          -21.96922576585871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "58efbe7a-86ce-45a5-934a-25d8b4b41ec1",
+        "driver": "",
+        "identifier": "",
+        "model": "Nissan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.796355843544006,
+          -21.969802850815018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6c42df4d-ff3d-40b6-bf2b-01fb90d3bba5",
+        "driver": "",
+        "identifier": "",
+        "model": "Renault"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79615199565887,
+          -21.966867652965064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c23e05fb-a920-4d0c-afd9-3c54789c06f0",
+        "driver": "",
+        "identifier": "",
+        "model": "Tesla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.794891357421875,
+          -21.967748218688843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f5a91cd1-a5a3-4a3f-8700-3dcbfd5522ab",
+        "driver": "",
+        "identifier": "",
+        "model": "Renault"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79689764976501,
+          -21.971016711517972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "91dcfaba-91d1-4ca7-a4c2-cd6db37afe01",
+        "driver": "",
+        "identifier": "",
+        "model": "Jaguar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.800910234451294,
+          -21.965464706467717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0b6dcbe2-a4ee-406d-aace-3f24334a2c85",
+        "driver": "",
+        "identifier": "",
+        "model": "Honda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.795105934143066,
+          -21.96960385626737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ffeca501-9d8b-4290-948a-9588f9368cee",
+        "driver": "",
+        "identifier": "",
+        "model": "Fiat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79653286933899,
+          -21.9723400068574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5f5266e9-104f-4c84-ba89-27e4038716cd",
+        "driver": "",
+        "identifier": "",
+        "model": "BMW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79100751876831,
+          -21.969574007061166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73fbe029-6077-4982-ba1c-eb36c759dcdc",
+        "driver": "",
+        "identifier": "",
+        "model": "Audi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79120063781738,
+          -21.972200713191825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "462e1a11-14b8-419b-9f8d-8cdb08d068ee",
+        "driver": "",
+        "identifier": "",
+        "model": "Chevrolet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79355025291443,
+          -21.97525519293419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8f226428-f368-48fe-9815-7795096da333",
+        "driver": "",
+        "identifier": "",
+        "model": "Cadillac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.793882846832275,
+          -21.972728038491105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "085b2e15-de73-4304-8e8d-9acd8151a8c7",
+        "driver": "",
+        "identifier": "",
+        "model": "Ford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78980588912964,
+          -21.967444747502206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "90218e53-bc18-4d35-b714-f22ffa4180ef",
+        "driver": "",
+        "identifier": "",
+        "model": "Jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7917263507843,
+          -21.964439850268867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d3bac4ee-1a11-49a7-9de8-bb7f5a493107",
+        "driver": "",
+        "identifier": "",
+        "model": "Jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78932309150695,
+          -21.96482790348574
+        ]
+      }
+    }
+  ]
+}
