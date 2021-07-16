@@ -1,4 +1,7 @@
-type User = GeoJSON.Feature<
+import buffer from "@turf/buffer";
+import booleanIntersects from "@turf/boolean-intersects";
+
+export type User = GeoJSON.Feature<
   GeoJSON.Point,
   {
     id: string;
@@ -6,7 +9,7 @@ type User = GeoJSON.Feature<
   }
 >;
 
-type Car = GeoJSON.Feature<
+export type Car = GeoJSON.Feature<
   GeoJSON.Point,
   {
     id: string;
@@ -33,4 +36,16 @@ export const searchForNearbyCars = (
   cars: Car[],
   radius: number,
   model?: string
-): Car[] => [];
+): Car[] => {
+  if (radius <= 0) throw Error("radius to be greater then 0");
+
+  const search = buffer(user, radius / 2, { units: "meters" });
+
+  return cars.filter((car) => {
+    const {
+      properties: { model: carModel },
+    } = car;
+
+    return booleanIntersects(search, car) && (!model || model === carModel);
+  });
+};
